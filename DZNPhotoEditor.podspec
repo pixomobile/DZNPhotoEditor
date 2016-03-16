@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.license     	  = { :type => 'MIT', :file => 'LICENSE' }
   s.author       	  = { "FIRST_NAME LAST_NAME" => "MY_NAME@example.com" }
   
-  s.source       	  = { :git => "https://github.com/PeterWong2015/DZNPhotoEditor.git", :tag => "v#{s.version}" }
+  s.source       	  = { :git => "https://github.com/PeterWong2015/DZNPhotoEditor.git" }
 
   s.requires_arc 	  = true
   s.platform        = :ios, '7.0'
