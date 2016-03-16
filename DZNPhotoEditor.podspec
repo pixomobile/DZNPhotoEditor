@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.summary      	  = "DZNPhotoEditor"
   s.description  	  = "DZNPhotoEditor"
   s.homepage   		  = "DZNPhotoEditor"
-  s.license     	  = { :type => 'MIT', :file => 'LICENSE' }
+  s.license           = 'MIT'
   s.author       	  = { "FIRST_NAME LAST_NAME" => "MY_NAME@example.com" }
   
   s.source       	  = { :git => "https://github.com/PeterWong2015/DZNPhotoEditor.git" }
